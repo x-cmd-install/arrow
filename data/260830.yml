@@ -1,0 +1,76 @@
+about:
+  description: Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics
+  license: Apache-2.0
+  homepage: https://arrow.apache.org/
+  head: 43eca86
+  archived: false
+  latestVersion: apache-arrow-25.0.1
+  collectedAt: 2026-08-30T05:34:17Z
+timeline:
+  created: 2016-02-17
+  lastCommit: 2026-08-28
+  lastRelease: 2026-08-10
+popularity:
+  star: 17072
+  watcher: 342
+  fork: 4264
+  release: 39
+  contributor: 1353
+  pullRequest: 14148
+  issue: 28462
+language:
+  C++: 32591814
+  Python: 3568248
+  Ruby: 2388921
+  Cython: 2030803
+  R: 1793886
+  C: 988664
+  MATLAB: 930089
+  CMake: 723138
+  Shell: 409552
+  Meson: 172790
+  Dockerfile: 168372
+  Thrift: 50966
+  Batchfile: 31628
+  Vala: 24760
+  Jinja: 20412
+  Objective-C++: 11446
+  Lua: 8771
+  Makefile: 8369
+  HTML: 3698
+  JavaScript: 2489
+  CSS: 510
+totalLine: 45929326
+recent:
+  last30d:
+    since: 2026-07-31
+    release: 3
+    mergedPR: 55
+    openPR: 77
+    closedIssue: 46
+    openIssue: 56
+    commit: 73
+  last90d:
+    since: 2026-06-01
+    release: 5
+    mergedPR: 299
+    openPR: 152
+    closedIssue: 263
+    openIssue: 160
+    commit: 397
+  last180d:
+    since: 2026-03-03
+    release: 7
+    mergedPR: 533
+    openPR: 196
+    closedIssue: 464
+    openIssue: 254
+    commit: 681
+  last360d:
+    since: 2025-09-04
+    release: 14
+    mergedPR: 1229
+    openPR: 305
+    closedIssue: 1149
+    openIssue: 527
+    commit: 1490
