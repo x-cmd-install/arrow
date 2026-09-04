@@ -7,7 +7,7 @@ about:
   head: e0cf418
   archived: false
   latestVersion: apache-arrow-25.0.1
-  collectedAt: 2026-09-04T19:53:56Z
+  collectedAt: 2026-09-04T20:46:58Z
 timeline:
   created: 2016-02-17
   lastCommit: 2026-09-04
@@ -100,6 +100,204 @@ total:
   openIssue: 2190
   commit: 19244
 ---
+path: /home/runner/.x-repo/github.com/apache/arrow
+collectedAt: 2026-09-04T20:47:11Z
+loc:
+  Cpp:
+    code: 523359
+    comments: 75224
+    blanks: 91770
+    files: 1191
+  CHeader:
+    code: 140395
+    comments: 59942
+    blanks: 32837
+    files: 954
+  Python:
+    code: 78348
+    comments: 8466
+    blanks: 18359
+    files: 209
+  Ruby:
+    code: 57007
+    comments: 15335
+    blanks: 7640
+    files: 824
+  Cython:
+    code: 51034
+    comments: 1880
+    blanks: 8096
+    files: 72
+  R:
+    code: 41892
+    comments: 11802
+    blanks: 6341
+    files: 180
+  ReStructuredText:
+    code: 35189
+    comments: 0
+    blanks: 10976
+    files: 192
+  ObjectiveC:
+    code: 18797
+    comments: 0
+    blanks: 3592
+    files: 273
+  CMake:
+    code: 12962
+    comments: 3551
+    blanks: 2025
+    files: 108
+  Sh:
+    code: 7533
+    comments: 3413
+    blanks: 1593
+    files: 137
+  Json:
+    code: 6796
+    comments: 0
+    blanks: 0
+    files: 32
+  C:
+    code: 6232
+    comments: 1406
+    blanks: 1190
+    files: 23
+  Yaml:
+    code: 5531
+    comments: 1620
+    blanks: 556
+    files: 60
+  CppHeader:
+    code: 5108
+    comments: 1912
+    blanks: 1199
+    files: 79
+  Meson:
+    code: 4264
+    comments: 922
+    blanks: 442
+    files: 52
+  Autoconf:
+    code: 3347
+    comments: 1052
+    blanks: 607
+    files: 58
+  Dockerfile:
+    code: 3119
+    comments: 1513
+    blanks: 466
+    files: 72
+  Protobuf:
+    code: 2234
+    comments: 217
+    blanks: 306
+    files: 5
+  Batch:
+    code: 832
+    comments: 1
+    blanks: 159
+    files: 11
+  Rakefile:
+    code: 774
+    comments: 372
+    blanks: 143
+    files: 20
+  Vala:
+    code: 577
+    comments: 80
+    blanks: 38
+    files: 5
+  Svg:
+    code: 546
+    comments: 77
+    blanks: 55
+    files: 39
+  Thrift:
+    code: 357
+    comments: 918
+    blanks: 169
+    files: 1
+  FlatBuffers:
+    code: 332
+    comments: 716
+    blanks: 181
+    files: 6
+  Makefile:
+    code: 315
+    comments: 44
+    blanks: 61
+    files: 2
+  ObjectiveCpp:
+    code: 237
+    comments: 36
+    blanks: 64
+    files: 1
+  Lua:
+    code: 149
+    comments: 64
+    blanks: 30
+    files: 4
+  Toml:
+    code: 135
+    comments: 61
+    blanks: 16
+    files: 3
+  JavaScript:
+    code: 125
+    comments: 60
+    blanks: 5
+    files: 3
+  Jinja2:
+    code: 125
+    comments: 126
+    blanks: 26
+    files: 7
+  Html:
+    code: 102
+    comments: 8
+    blanks: 14
+    files: 5
+  Css:
+    code: 73
+    comments: 38
+    blanks: 27
+    files: 2
+  ModuleDef:
+    code: 44
+    comments: 16
+    blanks: 1
+    files: 1
+  Xml:
+    code: 41
+    comments: 30
+    blanks: 3
+    files: 2
+  ForgeConfig:
+    code: 26
+    comments: 40
+    blanks: 5
+    files: 2
+  Bash:
+    code: 22
+    comments: 19
+    blanks: 7
+    files: 1
+  Markdown:
+    code: 0
+    comments: 16854
+    blanks: 2006
+    files: 92
+  Text:
+    code: 0
+    comments: 4158
+    blanks: 903
+    files: 52
+total:
+  code: 1008120
+  comments: 212016
+  blanks: 191930
+  files: 4780
 ---
 date: "2026-08-24"
 repo:
