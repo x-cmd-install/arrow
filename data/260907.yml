@@ -2,32 +2,32 @@ about:
   description: "Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics"
   license: Apache-2.0
   homepage: https://arrow.apache.org/
-  head: 399f27c
+  head: 51bfc67
   archived: false
   latestVersion: "apache-arrow-25.0.1"
-  collectedAt: 2026-09-07T06:05:39Z
+  collectedAt: 2026-09-07T18:22:07Z
 timeline:
   created: 2016-02-17
-  lastCommit: 2026-09-06
+  lastCommit: 2026-09-07
   lastRelease: 2026-08-10
 popularity:
-  star: 17089
+  star: 17092
   watcher: 346
-  fork: 4282
+  fork: 4283
   release: 39
-  contributor: 1341
-  pullRequest: 21922
-  issue: 28495
+  contributor: 1343
+  pullRequest: 21933
+  issue: 28504
 language:
-  C++: 32613842
-  Python: 3571647
-  Ruby: 2388325
-  Cython: 2030752
+  C++: 32623671
+  Python: 3574048
+  Ruby: 2389821
+  Cython: 2032385
   R: 1798753
   C: 988664
   MATLAB: 930089
   CMake: 724047
-  Shell: 409078
+  Shell: 409376
   Meson: 172938
   Dockerfile: 168263
   Thrift: 50966
@@ -40,91 +40,91 @@ language:
   HTML: 3698
   JavaScript: 2489
   CSS: 510
-totalBytes: 45960018
+totalBytes: 45975675
 recent:
   last30d:
     since: 2026-08-08
     release: 1
-    mergedPR: 59
-    openPR: 85
-    closedIssue: 48
-    openIssue: 60
-    commit: 96
+    mergedPR: 70
+    openPR: 84
+    closedIssue: 56
+    openIssue: 61
+    commit: 109
   last60d:
     since: 2026-07-09
     release: 4
-    mergedPR: 178
-    openPR: 130
-    closedIssue: 160
-    openIssue: 120
-    commit: 236
+    mergedPR: 189
+    openPR: 129
+    closedIssue: 168
+    openIssue: 121
+    commit: 249
   last90d:
     since: 2026-06-09
     release: 5
-    mergedPR: 303
-    openPR: 162
-    closedIssue: 264
-    openIssue: 162
-    commit: 402
+    mergedPR: 314
+    openPR: 161
+    closedIssue: 272
+    openIssue: 163
+    commit: 415
   last180d:
     since: 2026-03-11
     release: 7
-    mergedPR: 544
-    openPR: 209
-    closedIssue: 468
-    openIssue: 257
-    commit: 692
+    mergedPR: 555
+    openPR: 208
+    closedIssue: 476
+    openIssue: 258
+    commit: 705
   last360d:
     since: 2025-09-12
     release: 14
-    mergedPR: 1242
-    openPR: 312
-    closedIssue: 1161
+    mergedPR: 1253
+    openPR: 311
+    closedIssue: 1170
     openIssue: 529
-    commit: 1498
+    commit: 1511
   last720d:
     since: 2024-09-17
     release: 35
-    mergedPR: 2507
-    openPR: 353
-    closedIssue: 2582
-    openIssue: 827
-    commit: 2596
+    mergedPR: 2518
+    openPR: 352
+    closedIssue: 2592
+    openIssue: 826
+    commit: 2607
 total:
   release: 39
-  mergedPR: 7754
-  openPR: 400
-  closedIssue: 26306
-  openIssue: 2189
-  commit: 19247
+  mergedPR: 7765
+  openPR: 399
+  closedIssue: 26319
+  openIssue: 2185
+  commit: 19258
 ---
 path: /home/runner/.x-repo/github.com/apache/arrow
-collectedAt: 2026-09-07T06:06:07Z
+collectedAt: 2026-09-07T18:22:41Z
 loc:
   Cpp:
-    code: 523363
-    comments: 75224
-    blanks: 91770
+    code: 523505
+    comments: 75218
+    blanks: 91787
     files: 1191
   CHeader:
-    code: 140396
-    comments: 59942
-    blanks: 32837
+    code: 140415
+    comments: 59948
+    blanks: 32839
     files: 954
   Python:
-    code: 78348
-    comments: 8466
-    blanks: 18359
+    code: 78384
+    comments: 8476
+    blanks: 18368
     files: 209
   Ruby:
-    code: 57007
-    comments: 15335
-    blanks: 7640
+    code: 57052
+    comments: 15336
+    blanks: 7645
     files: 824
   Cython:
-    code: 51034
-    comments: 1880
-    blanks: 8096
+    code: 51073
+    comments: 1881
+    blanks: 8099
     files: 72
   R:
     code: 41892
@@ -147,9 +147,9 @@ loc:
     blanks: 2025
     files: 108
   Sh:
-    code: 7544
+    code: 7551
     comments: 3418
-    blanks: 1594
+    blanks: 1595
     files: 137
   Json:
     code: 6796
@@ -283,8 +283,8 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 16854
-    blanks: 2006
+    comments: 24476
+    blanks: 2192
     files: 92
   Text:
     code: 0
@@ -292,9 +292,9 @@ loc:
     blanks: 903
     files: 52
 total:
-  code: 1008184
-  comments: 212031
-  blanks: 191941
+  code: 1008472
+  comments: 219665
+  blanks: 192164
   files: 4780
 ---
 date: "2026-08-24"
@@ -776,7 +776,7 @@ checks:
       - 'Warn: 0 commits out of 30 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T06:06:08+00:00
+  collectedAt: 2026-09-07T18:22:53+00:00
   platform:
     darwin/arm64:
       name:  r-libarrow-darwin-arm64-25.0.1.zip
