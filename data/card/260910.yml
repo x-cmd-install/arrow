@@ -7,7 +7,7 @@ about:
   latestVersion: "apache-arrow-25.0.1"
   latestRelease: "apache-arrow-25.0.1"
   latestPrerelease: "apache-arrow-25.0.1-rc1"
-  collectedAt: 2026-09-10T18:19:53Z
+  collectedAt: 2026-09-10T23:40:39Z
 timeline:
   created: 2016-02-17
   lastCommit: 2026-09-10
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-08-10
   lastPrerelease: 2026-08-06
 popularity:
-  star: 17094
+  star: 17095
   watcher: 347
-  fork: 4289
+  fork: 4290
   release: 39
   contributor: 1346
-  pullRequest: 21972
+  pullRequest: 21975
   issue: 28536
 language:
   C++: 32675219
@@ -50,7 +50,7 @@ recent:
     since: 2026-08-11
     release: 0
     mergedPR: 86
-    openPR: 89
+    openPR: 92
     closedIssue: 71
     openIssue: 73
     commit: 136
@@ -58,7 +58,7 @@ recent:
     since: 2026-07-12
     release: 3
     mergedPR: 201
-    openPR: 137
+    openPR: 140
     closedIssue: 181
     openIssue: 129
     commit: 276
@@ -66,7 +66,7 @@ recent:
     since: 2026-06-12
     release: 5
     mergedPR: 329
-    openPR: 164
+    openPR: 167
     closedIssue: 289
     openIssue: 168
     commit: 442
@@ -74,7 +74,7 @@ recent:
     since: 2026-03-14
     release: 7
     mergedPR: 575
-    openPR: 217
+    openPR: 220
     closedIssue: 493
     openIssue: 265
     commit: 732
@@ -82,7 +82,7 @@ recent:
     since: 2025-09-15
     release: 14
     mergedPR: 1272
-    openPR: 320
+    openPR: 323
     closedIssue: 1188
     openIssue: 535
     commit: 1538
@@ -90,20 +90,20 @@ recent:
     since: 2024-09-20
     release: 35
     mergedPR: 2533
-    openPR: 358
+    openPR: 361
     closedIssue: 2610
     openIssue: 828
     commit: 2614
 total:
   release: 39
   mergedPR: 7789
-  openPR: 406
+  openPR: 409
   closedIssue: 26351
   openIssue: 2185
   commit: 19282
 ---
 path: /home/runner/.x-repo/github.com/apache/arrow
-collectedAt: 2026-09-10T18:20:55Z
+collectedAt: 2026-09-10T23:41:09Z
 loc:
   Cpp:
     code: 524402
