@@ -14,7 +14,7 @@ x install arrow
 
 ## Code insight
 
-Total: **1,010,003** lines of code across **3251** files in the top 5 languages.
+Total: **1,010,041** lines of code across **3251** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `apache-arrow-25.0.1` (2026-08-10)
-- **Last commit**: 2026-09-11
+- **Last commit**: 2026-09-12
 - **Assets in release**: 217
 
 ## Popularity
 
-- **Stars**: 17,100 · **Forks**: 4,293 · **Open issues**: 28,544 · **Contributors**: 1,347
+- **Stars**: 17,102 · **Forks**: 4,297 · **Open issues**: 28,544 · **Contributors**: 1,348
 
 ## Totals (cumulative)
 
-- **Releases**: 39 · **Merged PRs**: 7793 · **Open PRs**: 412 · **Closed issues**: 26358 · **Open issues**: 2186 · **Commits**: 19286
+- **Releases**: 39 · **Merged PRs**: 7794 · **Open PRs**: 415 · **Closed issues**: 26365 · **Open issues**: 2179 · **Commits**: 19287
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-13 | 0 | 86 | 94 | 72 | 77 | 140 |
-| last60d | 2026-07-14 | 3 | 197 | 141 | 177 | 130 | 280 |
-| 90d | 2026-06-14 | 5 | 332 | 170 | 291 | 171 | 446 |
-| last180d | 2026-03-16 | 7 | 574 | 223 | 493 | 267 | 736 |
-| 360d | 2025-09-17 | 14 | 1272 | 325 | 1181 | 533 | 1542 |
-| last720d | 2024-09-22 | 35 | 2535 | 364 | 2614 | 829 | 2614 |
+| 30d | 2026-08-14 | 0 | 86 | 96 | 69 | 76 | 125 |
+| last60d | 2026-07-15 | 3 | 197 | 143 | 175 | 125 | 255 |
+| 90d | 2026-06-15 | 5 | 326 | 173 | 284 | 171 | 413 |
+| last180d | 2026-03-17 | 7 | 571 | 226 | 488 | 265 | 718 |
+| 360d | 2025-09-18 | 14 | 1270 | 328 | 1180 | 529 | 1526 |
+| last720d | 2024-09-23 | 35 | 2523 | 367 | 2610 | 826 | 2614 |
 
 ## Release assets
 
@@ -296,4 +296,4 @@ Install metadata for arrow lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260912.yml` · 2026-09-12T05:58:38Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T06:18:46Z._
