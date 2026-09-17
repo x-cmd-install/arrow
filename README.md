@@ -14,13 +14,13 @@ x install arrow
 
 ## Code insight
 
-Total: **1,010,288** lines of code across **3251** files in the top 5 languages.
+Total: **1,010,678** lines of code across **3251** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Cpp | 524,539 | 75,330 | 91,949 | 1191 |
-| CHeader | 140,545 | 60,040 | 32,867 | 954 |
-| Python | 78,589 | 8,491 | 18,412 | 209 |
+| Cpp | 524,625 | 75,379 | 91,971 | 1191 |
+| CHeader | 140,520 | 60,039 | 32,862 | 954 |
+| Python | 78,603 | 8,492 | 18,413 | 209 |
 | Ruby | 57,275 | 15,352 | 7,667 | 825 |
 | Cython | 51,297 | 1,889 | 8,119 | 72 |
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `apache-arrow-25.0.1` (2026-08-10)
-- **Last commit**: 2026-09-16
+- **Last commit**: 2026-09-17
 - **Assets in release**: 217
 
 ## Popularity
 
-- **Stars**: 17,117 · **Forks**: 4,300 · **Open issues**: 28,555 · **Contributors**: 1,348
+- **Stars**: 17,125 · **Forks**: 4,300 · **Open issues**: 28,559 · **Contributors**: 1,348
 
 ## Totals (cumulative)
 
-- **Releases**: 39 · **Merged PRs**: 7804 · **Open PRs**: 415 · **Closed issues**: 26387 · **Open issues**: 2168 · **Commits**: 19297
+- **Releases**: 39 · **Merged PRs**: 7812 · **Open PRs**: 412 · **Closed issues**: 26394 · **Open issues**: 2165 · **Commits**: 19305
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-17 | 0 | 86 | 93 | 69 | 75 | 137 |
-| last60d | 2026-07-18 | 3 | 198 | 143 | 173 | 125 | 267 |
-| 90d | 2026-06-18 | 5 | 319 | 173 | 275 | 172 | 425 |
-| last180d | 2026-03-20 | 7 | 565 | 226 | 481 | 266 | 730 |
-| 360d | 2025-09-21 | 14 | 1275 | 327 | 1185 | 531 | 1538 |
-| last720d | 2024-09-26 | 35 | 2517 | 367 | 2606 | 827 | 2608 |
+| 30d | 2026-08-18 | 0 | 93 | 87 | 68 | 74 | 147 |
+| last60d | 2026-07-19 | 3 | 205 | 138 | 175 | 126 | 277 |
+| 90d | 2026-06-19 | 5 | 325 | 170 | 276 | 170 | 435 |
+| last180d | 2026-03-21 | 7 | 572 | 223 | 484 | 266 | 740 |
+| 360d | 2025-09-22 | 14 | 1278 | 324 | 1186 | 530 | 1548 |
+| last720d | 2024-09-27 | 35 | 2525 | 364 | 2608 | 826 | 2609 |
 
 ## Release assets
 
@@ -296,4 +296,4 @@ Install metadata for arrow lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260916.yml` · 2026-09-16T06:35:19Z._
+_Snapshot: `data/card/260917.yml` · 2026-09-17T06:35:49Z._
