@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 92,
       "digest": "sha256:bf9ff205b51f65b9933fb9f6092ff468da218fa8e2a597f50ffc715bcdee932e",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-10-09T07:33:45Z",
       "updated_at": "2026-10-09T07:33:45Z",
       "browser_download_url": "https://github.com/apache/arrow/releases/download/apache-arrow-26.0.0/almalinux-10-amd64.tar.gz.sha256"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 156,
       "digest": "sha256:1404e2ba0f06c6328d87a4a8db8fea9dc9bd8e4382deff3e8c3d9d901a125111",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-10-09T07:33:45Z",
       "updated_at": "2026-10-09T07:33:45Z",
       "browser_download_url": "https://github.com/apache/arrow/releases/download/apache-arrow-26.0.0/almalinux-10-amd64.tar.gz.sha512"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 92,
       "digest": "sha256:8add4c88683b2d355ff5096d4472feb71824439ceb8571a97aad5e57104e2592",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-10-09T07:33:45Z",
       "updated_at": "2026-10-09T07:33:45Z",
       "browser_download_url": "https://github.com/apache/arrow/releases/download/apache-arrow-26.0.0/almalinux-10-arm64.tar.gz.sha256"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 91,
       "digest": "sha256:18cace2e220af8ac9805f39a68b19a7eb02bb7613485995e1ff27ef0fb5342a0",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-10-09T07:33:46Z",
       "updated_at": "2026-10-09T07:33:46Z",
       "browser_download_url": "https://github.com/apache/arrow/releases/download/apache-arrow-26.0.0/almalinux-8-amd64.tar.gz.sha256"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 155,
       "digest": "sha256:2f0eddf5d89763786fe0dfff971f5793cacefb449e6ca2e8933875d64255c01c",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-10-09T07:33:46Z",
       "updated_at": "2026-10-09T07:33:46Z",
       "browser_download_url": "https://github.com/apache/arrow/releases/download/apache-arrow-26.0.0/almalinux-8-amd64.tar.gz.sha512"
@@ -1075,7 +1075,7 @@
       "state": "uploaded",
       "size": 9052160,
       "digest": "sha256:3f89ccf8aa7f4ce540815864fddb62cc500952dbf6feaf8976807e1014279e12",
-      "download_count": 33,
+      "download_count": 40,
       "created_at": "2026-10-09T07:33:45Z",
       "updated_at": "2026-10-09T07:33:46Z",
       "browser_download_url": "https://github.com/apache/arrow/releases/download/apache-arrow-26.0.0/Apache-Arrow-Flight-SQL-ODBC-26.0.0-win64.msi"
@@ -1831,7 +1831,7 @@
       "state": "uploaded",
       "size": 48167517,
       "digest": "sha256:2ef0af317cb7be3c44cb88c5d1014adb24c9f5856f163ed92ca663e729848fac",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-10-09T07:35:43Z",
       "updated_at": "2026-10-09T07:35:47Z",
       "browser_download_url": "https://github.com/apache/arrow/releases/download/apache-arrow-26.0.0/docs.tar.gz"
@@ -2479,7 +2479,7 @@
       "state": "uploaded",
       "size": 54458010,
       "digest": "sha256:f1c1b4263fd13abbc339a16f2bf19f3a5cbf2a620853d812b1256f03c5342cb8",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-10-09T07:35:52Z",
       "updated_at": "2026-10-09T07:35:58Z",
       "browser_download_url": "https://github.com/apache/arrow/releases/download/apache-arrow-26.0.0/pyarrow-26.0.0-cp311-cp311-musllinux_1_2_aarch64.whl"
@@ -7771,7 +7771,7 @@
       "state": "uploaded",
       "size": 47298621,
       "digest": "sha256:3ec828b2e081f164da028313b200256a0fdc935c07e26155fa2955d5d0a4cbf1",
-      "download_count": 38,
+      "download_count": 49,
       "created_at": "2026-10-09T07:36:46Z",
       "updated_at": "2026-10-09T07:36:49Z",
       "browser_download_url": "https://github.com/apache/arrow/releases/download/apache-arrow-26.0.0/r-libarrow-linux-x86_64-26.0.0.zip"
@@ -8610,11 +8610,11 @@
   "body": "Release Notes URL: https://arrow.apache.org/release/26.0.0.html",
   "reactions": {
     "url": "https://api.github.com/repos/apache/arrow/releases/407653159/reactions",
-    "total_count": 3,
+    "total_count": 4,
     "+1": 1,
     "-1": 0,
     "laugh": 0,
-    "hooray": 0,
+    "hooray": 1,
     "confused": 0,
     "heart": 1,
     "rocket": 1,
