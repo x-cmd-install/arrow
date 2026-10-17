@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 17,208 · **Forks**: 4,376 · **Open issues**: 28,670 · **Contributors**: 1,371
+- **Stars**: 17,209 · **Forks**: 4,378 · **Open issues**: 28,674 · **Contributors**: 1,371
 
 ## Totals (cumulative)
 
-- **Releases**: 40 · **Merged PRs**: 7928 · **Open PRs**: 389 · **Closed issues**: 26616 · **Open issues**: 2054 · **Commits**: 19424
+- **Releases**: 40 · **Merged PRs**: 7929 · **Open PRs**: 390 · **Closed issues**: 26618 · **Open issues**: 2056 · **Commits**: 19425
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-16 | 2 | 63 | 66 | 46 | 65 | 124 |
-| last60d | 2026-08-17 | 2 | 187 | 117 | 148 | 109 | 287 |
-| 90d | 2026-07-18 | 4 | 306 | 158 | 257 | 154 | 429 |
-| last180d | 2026-04-19 | 7 | 600 | 220 | 503 | 248 | 774 |
-| 360d | 2025-10-21 | 13 | 1309 | 321 | 1180 | 473 | 1590 |
-| last720d | 2024-10-26 | 35 | 2529 | 353 | 2603 | 801 | 2609 |
+| 30d | 2026-09-17 | 2 | 61 | 61 | 47 | 65 | 125 |
+| last60d | 2026-08-18 | 2 | 186 | 116 | 146 | 109 | 288 |
+| 90d | 2026-07-19 | 4 | 305 | 158 | 258 | 156 | 430 |
+| last180d | 2026-04-20 | 7 | 597 | 220 | 501 | 244 | 775 |
+| 360d | 2025-10-22 | 13 | 1307 | 322 | 1179 | 473 | 1591 |
+| last720d | 2024-10-27 | 35 | 2530 | 354 | 2605 | 803 | 2609 |
 
 ## Release assets
 
@@ -317,4 +317,4 @@ Install metadata for arrow lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261016.yml` · 2026-10-16T05:43:33Z._
+_Snapshot: `data/card/261017.yml` · 2026-10-17T05:29:41Z._
