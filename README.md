@@ -14,25 +14,25 @@ x install arrow
 
 ## Code insight
 
-Total: **1,015,147** lines of code across **3265** files in the top 5 languages.
+Total: **1,015,027** lines of code across **3265** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Cpp | 531,802 | 76,515 | 93,069 | 1206 |
+| Cpp | 531,853 | 76,516 | 93,074 | 1206 |
 | CHeader | 141,169 | 59,191 | 32,759 | 951 |
-| Python | 79,252 | 8,525 | 18,560 | 209 |
+| Python | 79,203 | 8,527 | 18,558 | 209 |
 | Ruby | 57,633 | 15,386 | 7,701 | 827 |
-| Cython | 51,354 | 1,891 | 8,113 | 72 |
+| Cython | 51,194 | 1,888 | 8,098 | 72 |
 
 ## OpenSSF Scorecard
 
-Overall score: **6.7 / 10**
+Overall score: **6.8 / 10**
 
 Lowest-scoring checks:
 
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Branch-Protection** (3/10) — branch protection is not maximal on development and all release branches
+- **SAST** (0/10) — SAST tool is not run on all commits -- score normalized to 0
 
 ## Source
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 17,223 · **Forks**: 4,399 · **Open issues**: 28,728 · **Contributors**: 1,373
+- **Stars**: 17,233 · **Forks**: 4,401 · **Open issues**: 28,740 · **Contributors**: 1,373
 
 ## Totals (cumulative)
 
-- **Releases**: 40 · **Merged PRs**: 7949 · **Open PRs**: 423 · **Closed issues**: 26823 · **Open issues**: 1905 · **Commits**: 19445
+- **Releases**: 40 · **Merged PRs**: 7955 · **Open PRs**: 429 · **Closed issues**: 26863 · **Open issues**: 1877 · **Commits**: 19451
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 2 | 58 | 96 | 49 | 91 | 66 |
-| last60d | 2026-08-27 | 2 | 173 | 149 | 132 | 136 | 248 |
-| 90d | 2026-07-28 | 4 | 279 | 189 | 226 | 170 | 362 |
-| last180d | 2026-04-29 | 6 | 586 | 255 | 499 | 266 | 755 |
-| 360d | 2025-10-31 | 12 | 1278 | 361 | 1157 | 499 | 1553 |
-| last720d | 2024-11-05 | 34 | 2497 | 389 | 2610 | 800 | 2589 |
+| 30d | 2026-09-27 | 2 | 62 | 102 | 54 | 95 | 72 |
+| last60d | 2026-08-28 | 2 | 176 | 154 | 136 | 142 | 254 |
+| 90d | 2026-07-29 | 4 | 276 | 193 | 222 | 172 | 368 |
+| last180d | 2026-04-30 | 6 | 591 | 261 | 504 | 271 | 761 |
+| 360d | 2025-11-01 | 12 | 1284 | 367 | 1167 | 501 | 1559 |
+| last720d | 2024-11-06 | 34 | 2501 | 395 | 2622 | 793 | 2585 |
 
 ## Release assets
 
@@ -317,4 +317,4 @@ Install metadata for arrow lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T05:55:07Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T06:21:48Z._
