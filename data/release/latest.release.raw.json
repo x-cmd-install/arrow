@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 17873899,
       "digest": "sha256:b153ef472dd89ef4cb84867ca238f2a3a9347d8f4a78913d16ca2201606f0425",
-      "download_count": 146,
+      "download_count": 149,
       "created_at": "2026-10-09T07:34:36Z",
       "updated_at": "2026-10-09T07:34:38Z",
       "browser_download_url": "https://github.com/apache/arrow/releases/download/apache-arrow-26.0.0/apache-arrow-26.0.0.tar.gz"
@@ -1075,7 +1075,7 @@
       "state": "uploaded",
       "size": 9052160,
       "digest": "sha256:3f89ccf8aa7f4ce540815864fddb62cc500952dbf6feaf8976807e1014279e12",
-      "download_count": 192,
+      "download_count": 205,
       "created_at": "2026-10-09T07:33:45Z",
       "updated_at": "2026-10-09T07:33:46Z",
       "browser_download_url": "https://github.com/apache/arrow/releases/download/apache-arrow-26.0.0/Apache-Arrow-Flight-SQL-ODBC-26.0.0-win64.msi"
@@ -7447,7 +7447,7 @@
       "state": "uploaded",
       "size": 28257620,
       "digest": "sha256:537eaa86f0848fb079252695c159955ced1ad7877304b95e8bef0475470a22b3",
-      "download_count": 443,
+      "download_count": 517,
       "created_at": "2026-10-09T07:36:44Z",
       "updated_at": "2026-10-09T07:36:46Z",
       "browser_download_url": "https://github.com/apache/arrow/releases/download/apache-arrow-26.0.0/r-libarrow-darwin-arm64-26.0.0.zip"
@@ -7555,7 +7555,7 @@
       "state": "uploaded",
       "size": 29731976,
       "digest": "sha256:6c1662f00cae8d188e53e3f87919531777f895d66486b4b175413cc360cb0613",
-      "download_count": 205,
+      "download_count": 243,
       "created_at": "2026-10-09T07:36:45Z",
       "updated_at": "2026-10-09T07:36:47Z",
       "browser_download_url": "https://github.com/apache/arrow/releases/download/apache-arrow-26.0.0/r-libarrow-darwin-x86_64-26.0.0.zip"
@@ -7663,7 +7663,7 @@
       "state": "uploaded",
       "size": 47550916,
       "digest": "sha256:a6e84262959ea5e996dddd479b83497934c50711c327a167055f14c18d2dad66",
-      "download_count": 259,
+      "download_count": 277,
       "created_at": "2026-10-09T07:36:45Z",
       "updated_at": "2026-10-09T07:36:48Z",
       "browser_download_url": "https://github.com/apache/arrow/releases/download/apache-arrow-26.0.0/r-libarrow-linux-arm64-26.0.0.zip"
@@ -7771,7 +7771,7 @@
       "state": "uploaded",
       "size": 47298621,
       "digest": "sha256:3ec828b2e081f164da028313b200256a0fdc935c07e26155fa2955d5d0a4cbf1",
-      "download_count": 8848,
+      "download_count": 9660,
       "created_at": "2026-10-09T07:36:46Z",
       "updated_at": "2026-10-09T07:36:49Z",
       "browser_download_url": "https://github.com/apache/arrow/releases/download/apache-arrow-26.0.0/r-libarrow-linux-x86_64-26.0.0.zip"
@@ -7879,7 +7879,7 @@
       "state": "uploaded",
       "size": 30998237,
       "digest": "sha256:7c0172cd9827ff7199e6e444f67e891f94b736e949b0070e2d18820a65ccd183",
-      "download_count": 1357,
+      "download_count": 1412,
       "created_at": "2026-10-09T07:36:47Z",
       "updated_at": "2026-10-09T07:36:49Z",
       "browser_download_url": "https://github.com/apache/arrow/releases/download/apache-arrow-26.0.0/r-libarrow-windows-x86_64-26.0.0.zip"
