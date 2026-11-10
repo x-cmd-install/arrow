@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 373894210,
       "digest": "sha256:eac34dc25cc3859b10555de1ee8ab48b822a05d083d59dafb29592be64cb6176",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-11-03T08:49:37Z",
       "updated_at": "2026-11-03T08:50:07Z",
       "browser_download_url": "https://github.com/apache/arrow/releases/download/apache-arrow-26.0.1/almalinux-10-amd64.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 92,
       "digest": "sha256:e83bded3956276741ff95c7e2c9bc3fc0b9e4b7463a145aa521f91ca6ed36834",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-11-03T08:49:37Z",
       "updated_at": "2026-11-03T08:49:37Z",
       "browser_download_url": "https://github.com/apache/arrow/releases/download/apache-arrow-26.0.1/almalinux-10-amd64.tar.gz.sha256"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 156,
       "digest": "sha256:286e69ed24d1a6d7cd3abbf2199dc36b1a44ac47aeea54d32288023576627fb6",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-11-03T08:49:37Z",
       "updated_at": "2026-11-03T08:49:37Z",
       "browser_download_url": "https://github.com/apache/arrow/releases/download/apache-arrow-26.0.1/almalinux-10-amd64.tar.gz.sha512"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 357301847,
       "digest": "sha256:d7efcd0ae9114523f8e89d5a83fe0ea732e0ea37bdb98c4650b0f91a53ba72e9",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-11-03T08:49:37Z",
       "updated_at": "2026-11-03T08:50:04Z",
       "browser_download_url": "https://github.com/apache/arrow/releases/download/apache-arrow-26.0.1/almalinux-10-arm64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 92,
       "digest": "sha256:43dac91fbcdcb482532982246e1076982e5252a568a65612b51796642bdc5ff3",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-11-03T08:49:37Z",
       "updated_at": "2026-11-03T08:49:38Z",
       "browser_download_url": "https://github.com/apache/arrow/releases/download/apache-arrow-26.0.1/almalinux-10-arm64.tar.gz.sha256"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 156,
       "digest": "sha256:af18149c974ae8c66b9b0bc97e6613f0fd50e3bbda783e3c9876a990425b7325",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-11-03T08:49:37Z",
       "updated_at": "2026-11-03T08:49:38Z",
       "browser_download_url": "https://github.com/apache/arrow/releases/download/apache-arrow-26.0.1/almalinux-10-arm64.tar.gz.sha512"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 814940649,
       "digest": "sha256:f2eea575e256ac11d4da70f87a730f6cdbed67ae2b264e6ff191f81eeef6b50d",
-      "download_count": 25,
+      "download_count": 33,
       "created_at": "2026-11-03T08:49:38Z",
       "updated_at": "2026-11-03T08:50:11Z",
       "browser_download_url": "https://github.com/apache/arrow/releases/download/apache-arrow-26.0.1/almalinux-8-amd64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 91,
       "digest": "sha256:a11fabf9d2eb44b24c61c8f991a3cf57e363c430374b394e376a7e440b89cac8",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-11-03T08:49:38Z",
       "updated_at": "2026-11-03T08:49:38Z",
       "browser_download_url": "https://github.com/apache/arrow/releases/download/apache-arrow-26.0.1/almalinux-8-amd64.tar.gz.sha256"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 155,
       "digest": "sha256:70c17de3218f49cbe6c28ec8128dc77bf452b7b6fe55394a4589d0a2d10ae960",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-11-03T08:49:38Z",
       "updated_at": "2026-11-03T08:49:38Z",
       "browser_download_url": "https://github.com/apache/arrow/releases/download/apache-arrow-26.0.1/almalinux-8-amd64.tar.gz.sha512"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 601988587,
       "digest": "sha256:ea71530caec6aff363f75fa2090de4fc01519ddc9454ea2812578fb0588e87d0",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-11-03T08:49:40Z",
       "updated_at": "2026-11-03T08:50:16Z",
       "browser_download_url": "https://github.com/apache/arrow/releases/download/apache-arrow-26.0.1/almalinux-9-amd64.tar.gz"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 362901786,
       "digest": "sha256:189fbd58df96dc1b1c4d18bb3ecafcaae31b43711985df01ce46d03ae2111dc7",
-      "download_count": 7,
+      "download_count": 9,
       "created_at": "2026-11-03T08:50:09Z",
       "updated_at": "2026-11-03T08:50:21Z",
       "browser_download_url": "https://github.com/apache/arrow/releases/download/apache-arrow-26.0.1/amazon-linux-2023-amd64.tar.gz"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 17878878,
       "digest": "sha256:1dd1b6701d9de58a4ed82b107539682f46ef6b9e22747e18e03204125c05a987",
-      "download_count": 54,
+      "download_count": 88,
       "created_at": "2026-11-03T08:50:13Z",
       "updated_at": "2026-11-03T08:50:14Z",
       "browser_download_url": "https://github.com/apache/arrow/releases/download/apache-arrow-26.0.1/apache-arrow-26.0.1.tar.gz"
@@ -1075,7 +1075,7 @@
       "state": "uploaded",
       "size": 9224192,
       "digest": "sha256:88483faaff08c563fe8f5343930683e8f178dfd486a68a8d78b9a10a6d108125",
-      "download_count": 59,
+      "download_count": 79,
       "created_at": "2026-11-03T08:49:37Z",
       "updated_at": "2026-11-03T08:49:38Z",
       "browser_download_url": "https://github.com/apache/arrow/releases/download/apache-arrow-26.0.1/Apache-Arrow-Flight-SQL-ODBC-26.0.1-win64.msi"
@@ -1147,7 +1147,7 @@
       "state": "uploaded",
       "size": 32890368,
       "digest": "sha256:eda3ceb4d98340ecdc009cae98c488442d58e0f1609b5a1c9cfb819d3f068c1a",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-11-03T08:50:17Z",
       "updated_at": "2026-11-03T08:50:18Z",
       "browser_download_url": "https://github.com/apache/arrow/releases/download/apache-arrow-26.0.1/arrow_flight_sql_odbc_unsigned.dll"
@@ -1507,7 +1507,7 @@
       "state": "uploaded",
       "size": 518743494,
       "digest": "sha256:8ad10b68317eed189f60de81d083dd07820e318d8d53f58b96e72d11c7825496",
-      "download_count": 5,
+      "download_count": 8,
       "created_at": "2026-11-03T08:50:25Z",
       "updated_at": "2026-11-03T08:50:49Z",
       "browser_download_url": "https://github.com/apache/arrow/releases/download/apache-arrow-26.0.1/debian-forky-arm64.tar.gz"
@@ -1831,7 +1831,7 @@
       "state": "uploaded",
       "size": 48110931,
       "digest": "sha256:3c9880e8a3a8dc427257ec39dd23978131996ae40edc57ef322563ea733ef2c4",
-      "download_count": 9,
+      "download_count": 11,
       "created_at": "2026-11-03T08:50:49Z",
       "updated_at": "2026-11-03T08:50:51Z",
       "browser_download_url": "https://github.com/apache/arrow/releases/download/apache-arrow-26.0.1/docs.tar.gz"
@@ -2371,7 +2371,7 @@
       "state": "uploaded",
       "size": 55016622,
       "digest": "sha256:39cb0f2418282c24bea6ceda77b03e5a8f0a5766b63a8bf194d4e2a2c423548c",
-      "download_count": 7,
+      "download_count": 9,
       "created_at": "2026-11-03T08:50:53Z",
       "updated_at": "2026-11-03T08:50:55Z",
       "browser_download_url": "https://github.com/apache/arrow/releases/download/apache-arrow-26.0.1/pyarrow-26.0.1-cp311-cp311-manylinux_2_28_x86_64.whl"
@@ -2479,7 +2479,7 @@
       "state": "uploaded",
       "size": 55452257,
       "digest": "sha256:24350194bc83f1fde74aa321b6b43cd78bfdbfe613a795a6b9145fd4beaf4827",
-      "download_count": 3,
+      "download_count": 5,
       "created_at": "2026-11-03T08:50:54Z",
       "updated_at": "2026-11-03T08:50:56Z",
       "browser_download_url": "https://github.com/apache/arrow/releases/download/apache-arrow-26.0.1/pyarrow-26.0.1-cp311-cp311-musllinux_1_2_aarch64.whl"
@@ -3127,7 +3127,7 @@
       "state": "uploaded",
       "size": 55043763,
       "digest": "sha256:c718bf97a92a6dea97fd1062c3b9f9e2e83cb9cc926e752289fa4ffff41738f9",
-      "download_count": 18,
+      "download_count": 29,
       "created_at": "2026-11-03T08:51:00Z",
       "updated_at": "2026-11-03T08:51:02Z",
       "browser_download_url": "https://github.com/apache/arrow/releases/download/apache-arrow-26.0.1/pyarrow-26.0.1-cp312-cp312-manylinux_2_28_x86_64.whl"
@@ -3451,7 +3451,7 @@
       "state": "uploaded",
       "size": 29078866,
       "digest": "sha256:9379f0d1056cad6866c4697aec83a15830202ec7e0bd52f8bd508b316260fa61",
-      "download_count": 4,
+      "download_count": 6,
       "created_at": "2026-11-03T08:51:02Z",
       "updated_at": "2026-11-03T08:51:03Z",
       "browser_download_url": "https://github.com/apache/arrow/releases/download/apache-arrow-26.0.1/pyarrow-26.0.1-cp312-cp312-win_amd64.whl"
@@ -3559,7 +3559,7 @@
       "state": "uploaded",
       "size": 37292947,
       "digest": "sha256:4cb739ccb87292c673e1f69819b68432a73bb8bb456e8599641bba9183a8a1dd",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-11-03T08:51:03Z",
       "updated_at": "2026-11-03T08:51:04Z",
       "browser_download_url": "https://github.com/apache/arrow/releases/download/apache-arrow-26.0.1/pyarrow-26.0.1-cp313-cp313-macosx_12_0_arm64.whl"
@@ -3919,7 +3919,7 @@
       "state": "uploaded",
       "size": 833,
       "digest": "sha256:b2b6196fc39ecc6332c4f25fa3710476d6b0023dea939be9986210556b25e542",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-11-03T08:51:06Z",
       "updated_at": "2026-11-03T08:51:06Z",
       "browser_download_url": "https://github.com/apache/arrow/releases/download/apache-arrow-26.0.1/pyarrow-26.0.1-cp313-cp313-manylinux_2_28_x86_64.whl.asc"
@@ -3955,7 +3955,7 @@
       "state": "uploaded",
       "size": 183,
       "digest": "sha256:160103a7de443e854643914b31af2925c566b5b2eb07b99bf083346bfabb8e5d",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-11-03T08:51:05Z",
       "updated_at": "2026-11-03T08:51:06Z",
       "browser_download_url": "https://github.com/apache/arrow/releases/download/apache-arrow-26.0.1/pyarrow-26.0.1-cp313-cp313-manylinux_2_28_x86_64.whl.sha512"
@@ -4423,7 +4423,7 @@
       "state": "uploaded",
       "size": 39802150,
       "digest": "sha256:a44a244867cac106cd326dd0a04be0850d2b8af3b1418ed7aeb8146d13aba360",
-      "download_count": 2,
+      "download_count": 4,
       "created_at": "2026-11-03T08:51:09Z",
       "updated_at": "2026-11-03T08:51:11Z",
       "browser_download_url": "https://github.com/apache/arrow/releases/download/apache-arrow-26.0.1/pyarrow-26.0.1-cp314-cp314-macosx_12_0_x86_64.whl"
@@ -5179,7 +5179,7 @@
       "state": "uploaded",
       "size": 39888805,
       "digest": "sha256:8af2b4e004dc18da8dc77bce27d97c675d2f71348e3ade2741cecac85c3f0c21",
-      "download_count": 2,
+      "download_count": 4,
       "created_at": "2026-11-03T08:51:14Z",
       "updated_at": "2026-11-03T08:51:16Z",
       "browser_download_url": "https://github.com/apache/arrow/releases/download/apache-arrow-26.0.1/pyarrow-26.0.1-cp314-cp314t-macosx_12_0_x86_64.whl"
@@ -6151,7 +6151,7 @@
       "state": "uploaded",
       "size": 55060370,
       "digest": "sha256:8cb5bcfe627ee6b910fbec27871d38cf4f28f331ea6328902ce6a6272851ac70",
-      "download_count": 5,
+      "download_count": 7,
       "created_at": "2026-11-03T08:51:21Z",
       "updated_at": "2026-11-03T08:51:23Z",
       "browser_download_url": "https://github.com/apache/arrow/releases/download/apache-arrow-26.0.1/pyarrow-26.0.1-cp315-cp315-manylinux_2_28_x86_64.whl"
@@ -6259,7 +6259,7 @@
       "state": "uploaded",
       "size": 55488705,
       "digest": "sha256:e2ee5f01f84996109405759cba8bb92a16455c50deb6526a535ab3b8d5f4e326",
-      "download_count": 2,
+      "download_count": 4,
       "created_at": "2026-11-03T08:51:21Z",
       "updated_at": "2026-11-03T08:51:23Z",
       "browser_download_url": "https://github.com/apache/arrow/releases/download/apache-arrow-26.0.1/pyarrow-26.0.1-cp315-cp315-musllinux_1_2_aarch64.whl"
@@ -6583,7 +6583,7 @@
       "state": "uploaded",
       "size": 37445268,
       "digest": "sha256:12dc85cec96aa62d429d7c43749c072e9330c373b67d6ee458edeef444c8941f",
-      "download_count": 4,
+      "download_count": 6,
       "created_at": "2026-11-03T08:51:23Z",
       "updated_at": "2026-11-03T08:51:25Z",
       "browser_download_url": "https://github.com/apache/arrow/releases/download/apache-arrow-26.0.1/pyarrow-26.0.1-cp315-cp315t-macosx_12_0_arm64.whl"
@@ -7231,7 +7231,7 @@
       "state": "uploaded",
       "size": 29909417,
       "digest": "sha256:55b1d871f21c8ed249c93f7375a35c35aa9b7b3af6896405cb8a6b67ad9bc7f9",
-      "download_count": 4,
+      "download_count": 6,
       "created_at": "2026-11-03T08:51:29Z",
       "updated_at": "2026-11-03T08:51:30Z",
       "browser_download_url": "https://github.com/apache/arrow/releases/download/apache-arrow-26.0.1/pyarrow-26.0.1-cp315-cp315t-win_amd64.whl"
@@ -7447,7 +7447,7 @@
       "state": "uploaded",
       "size": 28302870,
       "digest": "sha256:e6ae83de8f76af3a1afa8788aceea6b3fa85a13a8e2f035302919b2b610ca6e9",
-      "download_count": 20,
+      "download_count": 58,
       "created_at": "2026-11-03T08:51:30Z",
       "updated_at": "2026-11-03T08:51:31Z",
       "browser_download_url": "https://github.com/apache/arrow/releases/download/apache-arrow-26.0.1/r-libarrow-darwin-arm64-26.0.1.zip"
@@ -7555,7 +7555,7 @@
       "state": "uploaded",
       "size": 29791541,
       "digest": "sha256:df94b5e99058c2eabdb17a2dd796825a8a582a45b8983cb80120e671917aaab0",
-      "download_count": 20,
+      "download_count": 73,
       "created_at": "2026-11-03T08:51:30Z",
       "updated_at": "2026-11-03T08:51:32Z",
       "browser_download_url": "https://github.com/apache/arrow/releases/download/apache-arrow-26.0.1/r-libarrow-darwin-x86_64-26.0.1.zip"
@@ -7663,7 +7663,7 @@
       "state": "uploaded",
       "size": 47598153,
       "digest": "sha256:e2186be84ecf64082976a6551848c8c8d00c75b637709706238f662fe01a1246",
-      "download_count": 19,
+      "download_count": 129,
       "created_at": "2026-11-03T08:51:31Z",
       "updated_at": "2026-11-03T08:51:33Z",
       "browser_download_url": "https://github.com/apache/arrow/releases/download/apache-arrow-26.0.1/r-libarrow-linux-arm64-26.0.1.zip"
@@ -7771,7 +7771,7 @@
       "state": "uploaded",
       "size": 47351691,
       "digest": "sha256:0905e7c803371b674fd3118a803f0768fcd904366abcc333d27208744cf3932d",
-      "download_count": 64,
+      "download_count": 1913,
       "created_at": "2026-11-03T08:51:31Z",
       "updated_at": "2026-11-03T08:51:33Z",
       "browser_download_url": "https://github.com/apache/arrow/releases/download/apache-arrow-26.0.1/r-libarrow-linux-x86_64-26.0.1.zip"
@@ -7879,7 +7879,7 @@
       "state": "uploaded",
       "size": 31027116,
       "digest": "sha256:b217bb87697659a922b266af5b9dfafb3baf7a17f3623fa1e0a0aefe072a0ca3",
-      "download_count": 7,
+      "download_count": 620,
       "created_at": "2026-11-03T08:51:32Z",
       "updated_at": "2026-11-03T08:51:33Z",
       "browser_download_url": "https://github.com/apache/arrow/releases/download/apache-arrow-26.0.1/r-libarrow-windows-x86_64-26.0.1.zip"
@@ -7987,7 +7987,7 @@
       "state": "uploaded",
       "size": 429313349,
       "digest": "sha256:29c454b8c254e854e18702e50391a8b510b7ae5b53e1cfd43d2d0688c067658a",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-11-03T08:51:33Z",
       "updated_at": "2026-11-03T08:51:57Z",
       "browser_download_url": "https://github.com/apache/arrow/releases/download/apache-arrow-26.0.1/ubuntu-jammy-amd64.tar.gz"
@@ -8203,7 +8203,7 @@
       "state": "uploaded",
       "size": 413502248,
       "digest": "sha256:003be1195b37fdaa77e53ca25c557dbc9e0ea82347c4b259f86785f54de3da50",
-      "download_count": 3,
+      "download_count": 5,
       "created_at": "2026-11-03T08:51:34Z",
       "updated_at": "2026-11-03T08:51:59Z",
       "browser_download_url": "https://github.com/apache/arrow/releases/download/apache-arrow-26.0.1/ubuntu-noble-amd64.tar.gz"
