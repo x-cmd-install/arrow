@@ -22,7 +22,7 @@ Total: **1,016,989** lines of code across **3264** files in the top 5 languages.
 | CHeader | 141,349 | 59,344 | 32,847 | 951 |
 | Python | 79,171 | 8,521 | 18,583 | 209 |
 | Ruby | 57,708 | 15,386 | 7,710 | 827 |
-| Cython | 51,227 | 1,888 | 8,106 | 72 |
+| Cython | 51,228 | 1,888 | 8,106 | 72 |
 
 ## OpenSSF Scorecard
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `apache-arrow-26.0.1` (2026-11-03)
-- **Last commit**: 2026-11-19
+- **Last commit**: 2026-11-21
 - **Assets in release**: 238
 
 ## Popularity
 
-- **Stars**: 17,318 · **Forks**: 4,472 · **Open issues**: 28,896 · **Contributors**: 1,387
+- **Stars**: 17,326 · **Forks**: 4,473 · **Open issues**: 28,902 · **Contributors**: 1,388
 
 ## Totals (cumulative)
 
-- **Releases**: 42 · **Merged PRs**: 8066 · **Open PRs**: 459 · **Closed issues**: 27183 · **Open issues**: 1713 · **Commits**: 19564
+- **Releases**: 42 · **Merged PRs**: 8068 · **Open PRs**: 463 · **Closed issues**: 27201 · **Open issues**: 1701 · **Commits**: 19566
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 2 | 89 | 104 | 68 | 118 | 139 |
-| last60d | 2026-09-21 | 4 | 174 | 166 | 146 | 182 | 262 |
-| 90d | 2026-08-22 | 4 | 297 | 213 | 240 | 223 | 428 |
-| last180d | 2026-05-24 | 8 | 647 | 297 | 550 | 322 | 828 |
-| 360d | 2025-11-25 | 14 | 1314 | 393 | 1185 | 521 | 1622 |
-| last720d | 2024-11-30 | 32 | 2526 | 430 | 2679 | 783 | 2598 |
+| 30d | 2026-10-22 | 2 | 86 | 103 | 68 | 117 | 141 |
+| last60d | 2026-09-22 | 4 | 172 | 169 | 147 | 184 | 264 |
+| 90d | 2026-08-23 | 4 | 299 | 214 | 243 | 225 | 430 |
+| last180d | 2026-05-25 | 8 | 642 | 301 | 552 | 325 | 830 |
+| 360d | 2025-11-26 | 14 | 1310 | 396 | 1185 | 521 | 1624 |
+| last720d | 2024-12-01 | 32 | 2525 | 434 | 2682 | 783 | 2599 |
 
 ## Release assets
 
@@ -317,4 +317,4 @@ Install metadata for arrow lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T09:52:02Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T09:06:02Z._
